@@ -40,7 +40,6 @@ namespace PDFRESUMECREATOR
                 pdfout.Open();
 
 
-                // For black line separator in Resume
                 LineSeparator separator = new LineSeparator(3f, 100f, BaseColor.BLACK, Element.ALIGN_CENTER, 1);
 
                 Paragraph fullname = new Paragraph(jsonout.FullName);
