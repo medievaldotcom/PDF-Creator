@@ -19,7 +19,7 @@ namespace PDFRESUMECREATOR
     public partial class Form1 : Form
     {
 
-        private void button2_Click(object sender, EventArgs e)
+        private void ConvertClick(object sender, EventArgs e)
         {
 
             OpenFileDialog dialog = new OpenFileDialog();
@@ -132,10 +132,6 @@ namespace PDFRESUMECREATOR
         {
             InitializeComponent();
         }
-
-        private void convertclick(object sender, EventArgs e)
-        {
-           
           
         }
         public class datacheck
@@ -159,4 +155,3 @@ namespace PDFRESUMECREATOR
 
 
     }
-}
