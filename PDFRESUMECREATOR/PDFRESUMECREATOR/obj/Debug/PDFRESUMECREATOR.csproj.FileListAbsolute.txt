@@ -1,0 +1,17 @@
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.csproj.AssemblyReference.cache
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.Form1.resources
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.Properties.Resources.resources
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.csproj.GenerateResource.cache
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\PDFRESUMECREATOR.exe.config
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\PDFRESUMECREATOR.exe
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\PDFRESUMECREATOR.pdb
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\itextsharp.dll
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\itextsharp.xml
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.csproj.CopyComplete
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.exe
+C:\Users\Adrian\Documents\GitHub\PDF-Creator\PDFRESUMECREATOR\PDFRESUMECREATOR\obj\Debug\PDFRESUMECREATOR.pdb
