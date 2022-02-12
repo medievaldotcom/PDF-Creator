@@ -84,7 +84,7 @@ namespace PDFRESUMECREATOR
                 workheader.Alignment = Element.ALIGN_LEFT;
                 pdfout.Add(workheader);
 
-                Paragraph workExp = new Paragraph(jsonout.WorkExperience + "\n\n");
+                Paragraph workExp = new Paragraph(jsonout.WorkExperience + "\n");
                 workExp.IndentationLeft = 40;
                 workExp.Alignment = Element.ALIGN_LEFT;
                 pdfout.Add(workExp);
@@ -120,9 +120,7 @@ namespace PDFRESUMECREATOR
 
                 pdfout.Add(separator);
 
-                Paragraph fullname1 = new Paragraph(jsonout.FullName);
-                fullname1.Alignment = Element.ALIGN_RIGHT;
-                pdfout.Add(fullname1);
+            
 
                 pdfout.Close();
 
